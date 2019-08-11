@@ -16,10 +16,6 @@
 <script>
 export default {
   props: {
-    pagerCount: {
-      type: Number,
-      default: 5
-    },
     pageSize: {
       type: Number,
       default: 10
